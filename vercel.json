@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/add/*.php": {
+      "runtime": "vercel-php@0.5.2"
+    }
+  "functions": {
+    "api/get/*.php": {
+      "runtime": "vercel-php@0.5.2"
+    }
+  }
+}
